@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+}
+p{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
